@@ -10,7 +10,7 @@ var addressPoints = [
     -71.0578303
   ],
   [
-    "An age and origin revision of the Carina association<br />EAS 2024; Padova, Italy",
+    "A comprehensive age revision of the Carina association<br />EAS 2024; Padova, Italy",
     45.391408,
     11.8058487
   ]
