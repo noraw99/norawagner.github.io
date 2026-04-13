@@ -5,19 +5,9 @@ var addressPoints = [
     -0.1277653
   ],
   [
-    "<br />MA Boston, Center for Astrophysics; Boston, MA, USA",
+    "Clustering in Semi-Metric Spaces: An Approach to Identify Nearby Stellar Populations in Gaia DR3<br />MA Boston, Center for Astrophysics; Boston, MA, USA",
     42.3588336,
     -71.0578303
-  ],
-  [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
-  ],
-  [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
   ],
   [
     "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
