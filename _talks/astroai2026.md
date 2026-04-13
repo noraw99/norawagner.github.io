@@ -1,5 +1,8 @@
 ---
-title: ""
+title: "Clustering in Semi-Metric
+Spaces:
+An Approach to Identify Nearby Stellar
+Populations in Gaia DR3"
 collection: talks
 type: "Talk"
 permalink: /talks/astroai2026
@@ -8,4 +11,3 @@ date: 2026-02-02
 location: "Boston, MA, USA"
 ---
 
-This is a description of your talk, which is a markdown file that can be all markdown-ified like any other post. Yay markdown!
