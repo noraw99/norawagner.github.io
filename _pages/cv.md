@@ -8,28 +8,35 @@ redirect_from:
 ---
 
 ## Education
-- **PhD in Astrophysics** (In Progress)
-- **MSc in Computational Science and Astrophysics**
+- **PhD in Astronomy** (In Progress)
+- **MSc in Computational Science**
+- **MSc in Astronomy**
 - **BSc in Astrophysics**
 
 ## Positions
-- PhD Student in Astrophysics
+- PhD Student in Astrophysics (University of Vienna)
+- Research Assistant (University of Vienna)
 
 ## Research Interests
-- Computational Astronomy
+- Clustering Algorithms
+- Young Stellar Populations
 - Galactic Dynamics
 
-## Academic Publications
-- "Upcoming Publication in Astronomy & Astrophysics" (2025)
+## Co-Author Publications
+- "The TW Hydrae Association is a cluster chain of Sco-Cen in Astronomy & Astrophysics" (2025)
 
 ## Talks
 - **Invited Talks:**
-  - CfA
+  - Astro AI Lunch Talk, CfA
 - **Contributed Talks:**
-  - EAS Meetings
+  - EAS 2024
+  - EAS 2023
 
 ## Conferences Attended
-- [List of conferences attended can be added here]
+- Stellar Origins 2025
+- EAS 2024
+- Austrian Early Career Conference 2024
+- EAS 2023
 
 ## Observations
-- Observations at Calar Alto
+- Observing spectra of OB stars at Calar Alto
