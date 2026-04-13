@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "pic2.jpeg"
   name             : "Nora Wagner"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
@@ -42,8 +42,8 @@ author:
   github           : "academicpages"
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  linkedin         : # Username
+  bluesky          : "norawagner99" # Replace this with you Bluesky username
+  linkedin         : 'norawagner@gmx.at' # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
@@ -97,24 +97,6 @@ google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
-
-
-# Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
 
 # Analytics
 analytics:
