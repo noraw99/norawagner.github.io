@@ -7,58 +7,29 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Education
+- **PhD in Astrophysics** (In Progress)
+- **MSc in Computational Science and Astrophysics**
+- **BSc in Astrophysics**
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Positions
+- PhD Student in Astrophysics
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Research Interests
+- Computational Astronomy
+- Galactic Dynamics
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Academic Publications
+- "Upcoming Publication in Astronomy & Astrophysics" (2025)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Talks
+- **Invited Talks:**
+  - CfA
+- **Contributed Talks:**
+  - EAS Meetings
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Conferences Attended
+- [List of conferences attended can be added here]
+
+## Observations
+- Observations at Calar Alto
