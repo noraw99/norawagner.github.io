@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My research focuses on Galactic dynamics and young stellar populations. 
+My research focuses on clustering algorithms, Galactic dynamics and young stellar populations. 
 
 ## Master’s Thesis on Carina
 My Master's thesis work concentrated on the Carina association, utilizing Gaia DR3 data to analyze the age and the dynamics of this young star cluster. 
